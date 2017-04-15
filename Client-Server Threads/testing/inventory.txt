@@ -1,0 +1,6 @@
+gold	200
+armor	100
+ammo	500
+lumber	200
+magic	200
+rock	2000

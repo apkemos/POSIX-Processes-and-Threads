@@ -1,0 +1,6 @@
+golddd	20
+armor	10
+ammo	100
+lumber	20
+magic	50
+rock	100
